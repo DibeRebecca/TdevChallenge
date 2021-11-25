@@ -6,6 +6,7 @@ DAY 3 Set up de Firebase et configuration
 DAY 4 Page d accueil 
 DAY 5 Page de Detail d un article
 DAY 6 Interface de la page de panier
+DAY 7 Inscription des utilisateurs et enregistrement dans la base de donnee
 # ecommerce
 
 >>>>>>> 73c46025af8fc94b38b24ee36999a7a668a759a8
