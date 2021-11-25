@@ -11,7 +11,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>shop_app</string>
+=======
+	<string>ecommerce</string>
+>>>>>>> 73c46025af8fc94b38b24ee36999a7a668a759a8
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

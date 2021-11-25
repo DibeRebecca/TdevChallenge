@@ -49,7 +49,11 @@ packages:
       name: cupertino_icons
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.0.3"
+=======
+    version: "1.0.4"
+>>>>>>> 73c46025af8fc94b38b24ee36999a7a668a759a8
   fake_async:
     dependency: transitive
     description:
@@ -62,6 +66,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+<<<<<<< HEAD
   flutter_svg:
     dependency: "direct main"
     description:
@@ -69,11 +74,30 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.22.0"
+=======
+  flutter_lints:
+    dependency: "direct dev"
+    description:
+      name: flutter_lints
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.4"
+>>>>>>> 73c46025af8fc94b38b24ee36999a7a668a759a8
   flutter_test:
     dependency: "direct dev"
     description: flutter
     source: sdk
     version: "0.0.0"
+<<<<<<< HEAD
+=======
+  lints:
+    dependency: transitive
+    description:
+      name: lints
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.1"
+>>>>>>> 73c46025af8fc94b38b24ee36999a7a668a759a8
   matcher:
     dependency: transitive
     description:
@@ -88,6 +112,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.7.0"
+<<<<<<< HEAD
   nested:
     dependency: transitive
     description:
@@ -95,6 +120,8 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.0"
+=======
+>>>>>>> 73c46025af8fc94b38b24ee36999a7a668a759a8
   path:
     dependency: transitive
     description:
@@ -102,6 +129,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.8.0"
+<<<<<<< HEAD
   path_drawing:
     dependency: transitive
     description:
@@ -130,6 +158,8 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "6.0.0"
+=======
+>>>>>>> 73c46025af8fc94b38b24ee36999a7a668a759a8
   sky_engine:
     dependency: transitive
     description: flutter
@@ -191,6 +221,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.0"
+<<<<<<< HEAD
   xml:
     dependency: transitive
     description:
@@ -201,3 +232,7 @@ packages:
 sdks:
   dart: ">=2.12.0 <3.0.0"
   flutter: ">=1.24.0-7.0"
+=======
+sdks:
+  dart: ">=2.12.0 <3.0.0"
+>>>>>>> 73c46025af8fc94b38b24ee36999a7a668a759a8

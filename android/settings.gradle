@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 // Copyright 2014 The Flutter Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+=======
+>>>>>>> 73c46025af8fc94b38b24ee36999a7a668a759a8
 include ':app'
 
 def localPropertiesFile = new File(rootProject.projectDir, "local.properties")
