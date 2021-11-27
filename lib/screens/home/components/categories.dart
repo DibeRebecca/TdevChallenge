@@ -11,6 +11,7 @@ class Categories extends StatelessWidget {
       {"icon": "assets/icons/Bill Icon.svg", "text": "recus"},
       {"icon": "assets/icons/Gift Icon.svg", "text": "Promo"},
       {"icon": "assets/icons/Discover.svg", "text": "Plus"},
+
     ];
     return Padding(
       padding: EdgeInsets.all(getProportionateScreenWidth(20)),

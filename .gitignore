@@ -22,7 +22,14 @@
 
 # Flutter/Dart/Pub related
 **/doc/api/
+<<<<<<< HEAD
 **/ios/Flutter/.last_build_id
+=======
+<<<<<<< HEAD
+=======
+**/ios/Flutter/.last_build_id
+>>>>>>> 73c46025af8fc94b38b24ee36999a7a668a759a8
+>>>>>>> 09689e60348eaa0d34e091cf2520048e01e93fe3
 .dart_tool/
 .flutter-plugins
 .flutter-plugins-dependencies
@@ -40,7 +47,18 @@ app.*.symbols
 # Obfuscation related
 app.*.map.json
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# Exceptions to above rules.
+!/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+=======
+>>>>>>> 09689e60348eaa0d34e091cf2520048e01e93fe3
 # Android Studio will place build artifacts here
 /android/app/debug
 /android/app/profile
 /android/app/release
+<<<<<<< HEAD
+=======
+>>>>>>> 73c46025af8fc94b38b24ee36999a7a668a759a8
+>>>>>>> 09689e60348eaa0d34e091cf2520048e01e93fe3

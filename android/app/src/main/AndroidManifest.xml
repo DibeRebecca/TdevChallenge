@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.shop_app">
+    package="com.example.ecommerce">
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
          In most cases you can leave this as-is, but you if you want to provide
@@ -7,7 +7,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="shop_app"
+        android:label="ecommerce"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
@@ -42,6 +42,6 @@
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
         <meta-data
             android:name="flutterEmbedding"
-            android:value="2" />
+            android:value="2"/>
     </application>
 </manifest>
